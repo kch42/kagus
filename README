@@ -1,0 +1,8 @@
+Kevin's Awesome Go Utility Stuff
+================================
+
+Some utility stuff I use in some of my Go programs / libraries.
+
+Get it with:
+
+go get github.com/kagus
